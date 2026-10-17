@@ -1,0 +1,17 @@
+# Maven
+target/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Spring Boot
+*.jar
+*.war
+
+# OS Files
+.DS_Store
+Thumbs.db
+
